@@ -157,7 +157,6 @@ right-to-left window.
 <img src="crates/app/assets/flags/et.svg" width="28" height="21" alt="አማርኛ (Amharic)" title="አማርኛ (Amharic)">
 <img src="crates/app/assets/flags/sa.svg" width="28" height="21" alt="العربية (Arabic)" title="العربية (Arabic)">
 <img src="crates/app/assets/flags/am.svg" width="28" height="21" alt="Հայերեն (Armenian)" title="Հայերեն (Armenian)">
-<img src="crates/app/assets/flags/in.svg" width="28" height="21" alt="অসমীয়া (Assamese)" title="অসমীয়া (Assamese)">
 <img src="crates/app/assets/flags/az.svg" width="28" height="21" alt="Azərbaycan (Azerbaijani)" title="Azərbaycan (Azerbaijani)">
 <img src="crates/app/assets/flags/bd.svg" width="28" height="21" alt="বাংলা (Bangla)" title="বাংলা (Bangla)">
 <img src="crates/app/assets/flags/es-pv.svg" width="28" height="21" alt="Euskara (Basque)" title="Euskara (Basque)">
@@ -182,7 +181,6 @@ right-to-left window.
 <img src="crates/app/assets/flags/ge.svg" width="28" height="21" alt="ქართული (Georgian)" title="ქართული (Georgian)">
 <img src="crates/app/assets/flags/de.svg" width="28" height="21" alt="Deutsch (German)" title="Deutsch (German)">
 <img src="crates/app/assets/flags/gr.svg" width="28" height="21" alt="Ελληνικά (Greek)" title="Ελληνικά (Greek)">
-<img src="crates/app/assets/flags/in.svg" width="28" height="21" alt="ગુજરાતી (Gujarati)" title="ગુજરાતી (Gujarati)">
 <img src="crates/app/assets/flags/il.svg" width="28" height="21" alt="עברית (Hebrew)" title="עברית (Hebrew)">
 <img src="crates/app/assets/flags/in.svg" width="28" height="21" alt="हिन्दी (Hindi)" title="हिन्दी (Hindi)">
 <img src="crates/app/assets/flags/hu.svg" width="28" height="21" alt="Magyar (Hungarian)" title="Magyar (Hungarian)">
@@ -191,10 +189,8 @@ right-to-left window.
 <img src="crates/app/assets/flags/ie.svg" width="28" height="21" alt="Gaeilge (Irish)" title="Gaeilge (Irish)">
 <img src="crates/app/assets/flags/it.svg" width="28" height="21" alt="Italiano (Italian)" title="Italiano (Italian)">
 <img src="crates/app/assets/flags/jp.svg" width="28" height="21" alt="日本語 (Japanese)" title="日本語 (Japanese)">
-<img src="crates/app/assets/flags/in.svg" width="28" height="21" alt="ಕನ್ನಡ (Kannada)" title="ಕನ್ನಡ (Kannada)">
 <img src="crates/app/assets/flags/kz.svg" width="28" height="21" alt="Қазақ тілі (Kazakh)" title="Қазақ тілі (Kazakh)">
 <img src="crates/app/assets/flags/kh.svg" width="28" height="21" alt="ខ្មែរ (Khmer)" title="ខ្មែរ (Khmer)">
-<img src="crates/app/assets/flags/in.svg" width="28" height="21" alt="कोंकणी (Konkani)" title="कोंकणी (Konkani)">
 <img src="crates/app/assets/flags/kr.svg" width="28" height="21" alt="한국어 (Korean)" title="한국어 (Korean)">
 <img src="crates/app/assets/flags/la.svg" width="28" height="21" alt="ລາວ (Lao)" title="ລາວ (Lao)">
 <img src="crates/app/assets/flags/lv.svg" width="28" height="21" alt="Latviešu (Latvian)" title="Latviešu (Latvian)">
@@ -202,19 +198,15 @@ right-to-left window.
 <img src="crates/app/assets/flags/lu.svg" width="28" height="21" alt="Lëtzebuergesch (Luxembourgish)" title="Lëtzebuergesch (Luxembourgish)">
 <img src="crates/app/assets/flags/mk.svg" width="28" height="21" alt="Македонски (Macedonian)" title="Македонски (Macedonian)">
 <img src="crates/app/assets/flags/my.svg" width="28" height="21" alt="Bahasa Melayu (Malay)" title="Bahasa Melayu (Malay)">
-<img src="crates/app/assets/flags/in.svg" width="28" height="21" alt="മലയാളം (Malayalam)" title="മലയാളം (Malayalam)">
 <img src="crates/app/assets/flags/mt.svg" width="28" height="21" alt="Malti (Maltese)" title="Malti (Maltese)">
 <img src="crates/app/assets/flags/nz.svg" width="28" height="21" alt="Māori (Maori)" title="Māori (Maori)">
-<img src="crates/app/assets/flags/in.svg" width="28" height="21" alt="मराठी (Marathi)" title="मराठी (Marathi)">
 <img src="crates/app/assets/flags/np.svg" width="28" height="21" alt="नेपाली (Nepali)" title="नेपाली (Nepali)">
 <img src="crates/app/assets/flags/no.svg" width="28" height="21" alt="Norsk bokmål (Norwegian Bokmål)" title="Norsk bokmål (Norwegian Bokmål)">
 <img src="crates/app/assets/flags/no.svg" width="28" height="21" alt="Norsk nynorsk (Norwegian Nynorsk)" title="Norsk nynorsk (Norwegian Nynorsk)">
-<img src="crates/app/assets/flags/in.svg" width="28" height="21" alt="ଓଡ଼ିଆ (Odia)" title="ଓଡ଼ିଆ (Odia)">
 <img src="crates/app/assets/flags/ir.svg" width="28" height="21" alt="فارسی (Persian)" title="فارسی (Persian)">
 <img src="crates/app/assets/flags/pl.svg" width="28" height="21" alt="Polski (Polish)" title="Polski (Polish)">
 <img src="crates/app/assets/flags/br.svg" width="28" height="21" alt="Português (Brasil) (Portuguese (Brazil))" title="Português (Brasil) (Portuguese (Brazil))">
 <img src="crates/app/assets/flags/pt.svg" width="28" height="21" alt="Português (Portugal) (Portuguese (Portugal))" title="Português (Portugal) (Portuguese (Portugal))">
-<img src="crates/app/assets/flags/in.svg" width="28" height="21" alt="ਪੰਜਾਬੀ (Punjabi)" title="ਪੰਜਾਬੀ (Punjabi)">
 <img src="crates/app/assets/flags/pe.svg" width="28" height="21" alt="Runasimi (Quechua)" title="Runasimi (Quechua)">
 <img src="crates/app/assets/flags/ro.svg" width="28" height="21" alt="Română (Romanian)" title="Română (Romanian)">
 <img src="crates/app/assets/flags/ru.svg" width="28" height="21" alt="Русский (Russian)" title="Русский (Russian)">
@@ -226,9 +218,7 @@ right-to-left window.
 <img src="crates/app/assets/flags/mx.svg" width="28" height="21" alt="Español (México) (Spanish (Mexico))" title="Español (México) (Spanish (Mexico))">
 <img src="crates/app/assets/flags/es.svg" width="28" height="21" alt="Español (España) (Spanish (Spain))" title="Español (España) (Spanish (Spain))">
 <img src="crates/app/assets/flags/se.svg" width="28" height="21" alt="Svenska (Swedish)" title="Svenska (Swedish)">
-<img src="crates/app/assets/flags/in.svg" width="28" height="21" alt="தமிழ் (Tamil)" title="தமிழ் (Tamil)">
 <img src="crates/app/assets/flags/ru.svg" width="28" height="21" alt="Татар (Tatar)" title="Татар (Tatar)">
-<img src="crates/app/assets/flags/in.svg" width="28" height="21" alt="తెలుగు (Telugu)" title="తెలుగు (Telugu)">
 <img src="crates/app/assets/flags/th.svg" width="28" height="21" alt="ไทย (Thai)" title="ไทย (Thai)">
 <img src="crates/app/assets/flags/tr.svg" width="28" height="21" alt="Türkçe (Turkish)" title="Türkçe (Turkish)">
 <img src="crates/app/assets/flags/ua.svg" width="28" height="21" alt="Українська (Ukrainian)" title="Українська (Ukrainian)">
